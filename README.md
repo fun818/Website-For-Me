@@ -1,5 +1,4 @@
 # Website-For-Me
-# Website-For-Me
 ![headshot](Logo.png)
 Hi, I'm Fun818(Also known as Jay) and currently learning to use Github.
 
